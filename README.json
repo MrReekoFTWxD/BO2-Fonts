@@ -1,0 +1,61 @@
+{
+	"Font":
+		{
+
+			"fonts/720/extraSmallFont":
+			{
+				"Address": "0x82FC3474",
+				"pixelHeight": "20,"
+			},
+			"fonts/720/normalFont":
+			{
+				"Address": "0x82FC342C",
+				"pixelHeight": "30,"
+			},
+			"fonts/720/smallFont":
+			{
+				"Address": "0x82FC339C",
+				"pixelHeight": "25,"
+			},
+			"fonts/720/boldFont":
+			{
+				"Address": "0x82FC3408",
+				"pixelHeight": "38,"
+			},
+			"fonts/smallDevFont":
+			{
+				"Address": "0x82FC330C",
+				"pixelHeight": "22,"
+			},
+			"fonts/distFont":
+			{
+				"Address": "0x82FC3330",
+				"pixelHeight": "36,"
+			},
+			"fonts/720/bigFont":
+			{
+				"Address": "0x82FC3378",
+				"pixelHeight": "48,"
+			},
+			"fonts/720/extraBigFont":
+			{
+				"Address": "0x82FC3450",
+				"pixelHeight": "60,"
+			},
+			"fonts/720/smallItalicFont":
+			{
+				"Address": "0x82FC33C0",
+				"pixelHeight": "20,"
+			},
+			"fonts/720/consoleFont":
+			{
+				"Address": "0x82FC3354",
+				"pixelHeight": "16,"
+			},
+			"fonts/720/italicFont":
+			{
+				"Address": "0x82FC33E4",
+				"pixelHeight": "25,"
+			},
+		}
+		}
